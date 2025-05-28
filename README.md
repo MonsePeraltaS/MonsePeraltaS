@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👩‍💻 Guadalupe Monserrat Peralta Sánchez
 
-<!--
-**MonsePeraltaS/MonsePeraltaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Bienvenida/o a mi perfil de GitHub.  
+Soy estudiante de Ingeniería en Computación Inteligente en la Universidad de Colima. Me apasiona la ciberseguridad, el desarrollo backend y el uso de la tecnología para resolver problemas reales.
 
-Here are some ideas to get you started:
+Aquí encontrarás algunos de mis proyectos desarrollados en cursos, prácticas y clases universitarias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Proyectos destacados (en este perfil)
+
+- [Juego del Ahorcado (HTML/CSS/JS)](https://github.com/MonsePeraltaS/juego-del-ahorcado)  
+- [Lógica de Programación – Oracle ONE](https://github.com/MonsePeraltaS/logica-programacion-oracle-one)  
+- [Formularios HTML con validaciones](https://github.com/MonsePeraltaS/formulario-html-validaciones)  
+- [Curso Backend con Node.js (en progreso)](https://github.com/MonsePeraltaS) 
+
+---
+
+## 📁 Proyectos anteriores (otra cuenta)
+
+- [Repositorio de trabajos escolares – Python / C / Redes](https://github.com/monseperalta/trabajo-universidad)  
+- [Proyecto final – Simulador de red neuronal](https://github.com/monseperalta/red-neuronal-python)  
+*(Accede a mi cuenta anterior en [github.com/monseperalta](https://github.com/monseperalta))*
+
+---
+
+## 📫 Contacto
+
+- 📧 peraltamonse03@gmail.com  
+- 🔗 [LinkedIn: https://www.linkedin.com/in/guadalupe-monserrat-peralta-s%C3%A1nchez-bb8333345/
+
+Gracias por visitar mi perfil 😊
+
