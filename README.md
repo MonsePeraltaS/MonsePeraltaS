@@ -1,7 +1,7 @@
 # 👩‍💻 Guadalupe Monserrat Peralta Sánchez
 
 ¡Hola! Bienvenida/o a mi perfil de GitHub.  
-Soy estudiante de Ingeniería en Computación Inteligente en la Universidad de Colima. Me apasiona la ciberseguridad, el desarrollo backend y el uso de la tecnología para resolver problemas reales.
+Soy estudiante de Ingeniería en Computación Inteligente en la Universidad de Colima. Me apasiona  el uso de la tecnología para resolver problemas reales.
 
 Aquí encontrarás algunos de mis proyectos desarrollados en cursos, prácticas y clases universitarias.
 
